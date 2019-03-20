@@ -1,0 +1,7 @@
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\Catching\Catching\obj\Debug\Catching.csprojAssemblyReference.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\Catching\Catching\obj\Debug\Catching.csproj.CoreCompileInputs.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\Catching\Catching\bin\Debug\Catching.exe.config
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\Catching\Catching\bin\Debug\Catching.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\Catching\Catching\bin\Debug\Catching.pdb
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\Catching\Catching\obj\Debug\Catching.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\Catching\Catching\obj\Debug\Catching.pdb
